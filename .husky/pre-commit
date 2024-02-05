@@ -1,1 +1,1 @@
-echo "THIS IS A PRE-COMMIT HOOK"
+echo "THIS IS A PRE-COMMIT HOOK" && exit 1
